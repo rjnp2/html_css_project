@@ -1,0 +1,9 @@
+@media screen and (max-width:669px){
+    .container{
+        width: 85vw;
+    }
+
+    .error {
+        font-size: 120px;
+    }
+}
